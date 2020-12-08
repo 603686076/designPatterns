@@ -5,7 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f7fd579-7295-4132-a48e-6455b6e68383" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns01/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns01/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns01/AssembleImplementationBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns01/Battery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns01/Builder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns01/CPU.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns01/Camera.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns01/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns01/Director.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns01/FingerprintIdentification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns01/GPS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns01/Memory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns01/NFC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns01/Screen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns01/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns02/AbstractComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/designpatterns02/ComponentFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns02/ComponentFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns01/AssemblePackageBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns01/Battery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns01/Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns01/CPU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns01/Camera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns01/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpatterns01/Component.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns01/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpatterns01/Director.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns01/FingerprintIdentification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns01/GPS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns01/Memory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns01/NFC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns01/Screen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns01/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpatterns01/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns02/AbstractComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns02/AbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpatterns02/AbstractFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns02/AgingMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpatterns02/AgingMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns02/Component.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpatterns02/Component.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns02/ComponentFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpatterns02/ComponentFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns02/FlagshipAircraft.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpatterns02/FlagshipAircraft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns02/IHandset.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpatterns02/IHandset.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns02/P2Machine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpatterns02/P2Machine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns02/PhoneFactory1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpatterns02/PhoneFactory1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns02/PhoneFactory2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpatterns02/PhoneFactory2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns02/PhoneFactory3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpatterns02/PhoneFactory3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/designpatterns02/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/designpatterns02/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +62,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lGW0B4ZCV0P6s2S4kZxngakYaG" />
@@ -32,8 +79,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/designpatterns02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.14941406" />
@@ -42,22 +90,21 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\workspace-1206\src\main\java" />
       <recent name="G:\workspace-1206\src\main\java\designpatterns02" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\workspace-1206\src\main\java" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="designpatterns01" />
       <recent name="designpatterns02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designpatterns02.Test" />
       <module name="design-patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designpatterns02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -65,12 +112,6 @@
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="designpatterns01.Test" />
       <module name="design-patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="designpatterns01.AssembleImplementationBuilder" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,7 +134,7 @@
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="designpatterns01.AssembleImplementationBuilder" />
+          <option name="PATTERN" value="designpatterns01.ConcreteAssembler" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,10 +142,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
