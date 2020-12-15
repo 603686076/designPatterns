@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //具体产品1：实现抽象产品中的抽象方法  老年机
-public class AgingMachine implements IHandset{
+public class AgingMachine implements Handset {
 
     private List<Component> list = new ArrayList<Component>();
     private BigDecimal price = BigDecimal.ZERO;
@@ -18,7 +18,7 @@ public class AgingMachine implements IHandset{
     ComponentFactory componentFactory = new ComponentFactory();
 
     @Override
-    public IHandset assemblingMobilePhones() {
+    public Handset assemblingMobilePhones() {
         list.add(componentFactory.produceCPU());
         price = price.add(componentFactory.produceCPU().price);
         list.add(componentFactory.produceMemory());

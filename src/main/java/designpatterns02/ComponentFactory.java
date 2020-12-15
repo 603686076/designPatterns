@@ -6,6 +6,10 @@ import java.math.BigDecimal;
 public class ComponentFactory {
 
     public Component produceCPU() {
+
+
+
+        
         Component cPU = new Component("CPU", "麒麟", new BigDecimal(590));
         return cPU;
     }

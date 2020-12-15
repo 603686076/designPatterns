@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 //组装实现
-public class AssembleImplementationBuilder implements Builder{
+public class ConcreteBuilder implements Builder{
 
     private List<Component> list = new ArrayList<Component>();
     private BigDecimal price = BigDecimal.ZERO;
@@ -21,7 +21,7 @@ public class AssembleImplementationBuilder implements Builder{
 
 
     private String grade;     //手机类型
-    public AssembleImplementationBuilder(String grade) {
+    public ConcreteBuilder(String grade) {
         this.grade = grade;
     }
 

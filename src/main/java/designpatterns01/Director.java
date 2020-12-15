@@ -4,7 +4,7 @@ package designpatterns01;
 public class Director {
 
     public Builder agingMachine(){  
-        return new AssembleImplementationBuilder("老年机")
+        return new ConcreteBuilder("老年机")
                 .appendCPU()
                 .appendMemory()
                 .appendBattery()
@@ -12,7 +12,7 @@ public class Director {
     }
 
     public Builder p2Machine(){
-        return new AssembleImplementationBuilder("摄像专用机")
+        return new ConcreteBuilder("摄像专用机")
                 .appendCPU()
                 .appendMemory()
                 .appendBattery()
@@ -21,7 +21,7 @@ public class Director {
     }
 
     public Builder flagshipAircraft(){
-        return new AssembleImplementationBuilder("旗舰机")
+        return new ConcreteBuilder("旗舰机")
                 .appendCPU()
                 .appendMemory()
                 .appendBattery()

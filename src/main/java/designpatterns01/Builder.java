@@ -1,7 +1,7 @@
 package designpatterns01;
 
-//组装包接口
-//组装包接口定义组装部件的方法，以及提供最终明细的方法
+//组装接口
+//组装接口定义组装部件的方法，以及提供最终明细的方法
 public interface Builder {
     Builder appendCPU();                       //CPU
     Builder appendMemory();                    //内存
